@@ -1,0 +1,6 @@
+.table {
+  display: flex;
+  flex-direction: row nowrap;
+  justify-content: space-between;
+  width: 70%;
+}
